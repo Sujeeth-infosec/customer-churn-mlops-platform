@@ -1,0 +1,8 @@
+feature,psi_value,ks_statistic,p_value,js_distance,drift_detected,drift_severity
+last_login_days,3.8335,0.5912,0.0,0.4919,True,High
+support_ticket_count,1.148,0.4369,0.0,0.3809,True,High
+monthly_spend,0.3805,0.2566,0.0,0.223,True,High
+tenure_months,0.0012,0.0144,0.016111,0.0144,True,Low
+total_transactions,0.0011,0.0106,0.148501,0.0131,False,Low
+age,0.0005,0.0069,0.641866,0.0139,False,Low
+avg_session_time,0.0005,0.0063,0.750547,0.0114,False,Low
